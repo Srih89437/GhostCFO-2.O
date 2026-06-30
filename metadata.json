@@ -1,0 +1,6 @@
+{
+  "name": "GhostCFO",
+  "description": "Zero-Trust Autonomous FinOps Platform. Cinematic landing experience with mathematical agent governance cryptographically gated by ArmorIQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
